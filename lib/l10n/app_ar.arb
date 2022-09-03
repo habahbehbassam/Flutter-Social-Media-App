@@ -1,0 +1,9 @@
+{
+  "appTitle": "Social Media App",
+  "postsCount": "مجموع المنشورات ",
+  "posts": "منشورات",
+  "serverDownMsg": "الخدمة غير متوفرة",
+  "noInternetMsg": "الجهاز غير متصل في الانترنت",
+  "usersPageTitle": "المستخدمين",
+  "emptyUsersListMsg": "لا يوجد مستخدمين"
+}

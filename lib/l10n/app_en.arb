@@ -1,0 +1,9 @@
+{
+  "appTitle": "Social Media App",
+  "postsCount": "Posts count is ",
+  "posts": "posts",
+  "serverDownMsg": "Server Down",
+  "noInternetMsg": "No Internet Connection",
+  "usersPageTitle": "Users",
+  "emptyUsersListMsg": "No Users Available"
+}
